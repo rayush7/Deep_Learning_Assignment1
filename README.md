@@ -1,5 +1,5 @@
 # Deep_Learning_Assignment
-This Repository contains code for Assignment 1 of Deep Learning Course offered at Ecole CentraleSupelec-Fall 2018 and taught by Dr. Vincent Lepetit
+This Repository contains code for Assignment 1 of [Deep Learning Course](https://www.labri.fr/perso/vlepetit/deep_learning_mva.php) offered at Ecole CentraleSupelec-Fall 2018 and taught by Dr. Vincent Lepetit
 
 ### Assignment 1- Deep Learning for Visual Recognition
 
