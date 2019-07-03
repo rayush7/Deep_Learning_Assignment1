@@ -5,16 +5,16 @@ This Repository contains code for Assignment 1 of Deep Learning Course offered a
 
 __KeyWords__: CNNs
 
-[Solutions](ml_lab/lab1.ipynb)
+[Solutions](Assignment_1/Assignment_1.ipynb)
  
  ### Assignment 2- Deep Learning for Natural Language Processing
  
  __KeyWords__: LSTMs
  
- [Solutions](ml_lab/lab2.ipynb)
+ [Solutions](Assignment_2/nlp_project.ipynb)
  
  ### Assignment 3- Deep Learning for Reinforcement Learning
  
   __KeyWords__: Deep Q Learning
  
-  [Solutions](ml_lab/lab3.ipynb)
+  [Solutions](Assignment_3/DQN_project_MVA.ipynb)
